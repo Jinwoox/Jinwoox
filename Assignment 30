@@ -1,0 +1,7 @@
+#Name: Mike Wang
+#Email: mike.wang02@myhunter.cuny.edu
+
+#!/bin/bash
+
+echo "Hello CSCI127 Students!"
+echo "$USER is learning shells scripts!"
